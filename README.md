@@ -21,7 +21,6 @@ Tables store data in rows and columns.
 
 users table is created with proper structure and constraints.
 
-CREATE TABLE IF NOT EXISTS users (...);
 
 3️⃣ Data Types
 
