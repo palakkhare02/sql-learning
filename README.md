@@ -66,16 +66,6 @@ Used to retrieve data from table.
 
 Filtering, sorting and limiting results.
 
-SELECT * FROM users;
-SELECT name, salary FROM users WHERE salary > 30000;
-
-✅ Learning Outcome
-
-Understood database & table creation
-
-Learned data types and constraints
-
-Practiced insert and select queries
 
 🛠 Tools Used
 
